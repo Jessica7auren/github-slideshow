@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I go to seek the great perhaps.
+Nowhere to go but everywhere.
 Use the left arrow to go back!
